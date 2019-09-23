@@ -22,12 +22,12 @@ Make sure to create "logs", "ckpt" and "gen_images" directory in the project dir
 
 Original images
 
-<img src="https://user-images.githubusercontent.com/38666732/65448303-245ae080-de56-11e9-9702-3b3e0c12250e.png">
+<img src="https://user-images.githubusercontent.com/38666732/65448303-245ae080-de56-11e9-9702-3b3e0c12250e.png" width=500>
 
 Reconstructions
 
-<img src="https://user-images.githubusercontent.com/38666732/65448312-2755d100-de56-11e9-85a5-e1351f985fd4.png">
+<img src="https://user-images.githubusercontent.com/38666732/65448312-2755d100-de56-11e9-85a5-e1351f985fd4.png" width=500>
 
 Generated images
 
-<img src="https://user-images.githubusercontent.com/38666732/65448293-1f962c80-de56-11e9-9c01-a6f09800cb56.png">
+<img src="https://user-images.githubusercontent.com/38666732/65448293-1f962c80-de56-11e9-9c01-a6f09800cb56.png" width=500>
